@@ -1,0 +1,244 @@
+{
+    "regressions": [
+        [
+            "core.startup.time_help_np", 
+            "graphs/arch-x86_64/branch-0.5.x/cpu-Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz/machine-drogon-neurodebian1.1/os-Linux 4.6.0-rc1+/python-2.7/ram-65948008/core.startup.time_help_np.json", 
+            {
+                "branch": "0.5.x", 
+                "python": "2.7"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        5885, 
+                        0.17431644201278687, 
+                        0.20205140113830566
+                    ]
+                ], 
+                0.20205140113830566, 
+                0.17431644201278687
+            ]
+        ], 
+        [
+            "api.supers.time_ls", 
+            "graphs/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz/machine-drogon-neurodebian1.1/os-Linux 4.6.0-rc1+/python-2.7/ram-65948008/api.supers.time_ls.json", 
+            {
+                "branch": "master", 
+                "python": "2.7"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        5191, 
+                        5353, 
+                        0.06527558565139771, 
+                        0.0891696572303772
+                    ], 
+                    [
+                        5504, 
+                        5510, 
+                        0.0891696572303772, 
+                        0.09248909950256348
+                    ], 
+                    [
+                        null, 
+                        5825, 
+                        0.09248909950256348, 
+                        0.12230995893478394
+                    ]
+                ], 
+                0.12230995893478394, 
+                0.06527558565139771
+            ]
+        ], 
+        [
+            "api.supers.time_installr", 
+            "graphs/arch-x86_64/branch-0.5.x/cpu-Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz/machine-drogon-neurodebian1.1/os-Linux 4.6.0-rc1+/python-2.7/ram-65948008/api.supers.time_installr.json", 
+            {
+                "branch": "0.5.x", 
+                "python": "2.7"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        5825, 
+                        2.483590006828308, 
+                        3.2241419553756714
+                    ], 
+                    [
+                        null, 
+                        5885, 
+                        3.2241419553756714, 
+                        3.8097418546676636
+                    ]
+                ], 
+                3.8097418546676636, 
+                2.483590006828308
+            ]
+        ], 
+        [
+            "core.startup.time_import_api", 
+            "graphs/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz/machine-drogon-neurodebian1.1/os-Linux 4.6.0-rc1+/python-2.7/ram-65948008/core.startup.time_import_api.json", 
+            {
+                "branch": "master", 
+                "python": "2.7"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        5885, 
+                        0.16695449352264405, 
+                        0.20397087335586547
+                    ]
+                ], 
+                0.20397087335586547, 
+                0.16695449352264405
+            ]
+        ], 
+        [
+            "api.testds.time_create_test_dataset2x2", 
+            "graphs/arch-x86_64/branch-0.5.x/cpu-Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz/machine-drogon-neurodebian1.1/os-Linux 4.6.0-rc1+/python-3.4/ram-65948008/api.testds.time_create_test_dataset2x2.json", 
+            {
+                "branch": "0.5.x", 
+                "python": "3.4"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        5070, 
+                        5114, 
+                        1.2856551930308342, 
+                        2.4545732233673334
+                    ], 
+                    [
+                        null, 
+                        5825, 
+                        2.4545732233673334, 
+                        2.9182355515658855
+                    ]
+                ], 
+                2.9182355515658855, 
+                1.2856551930308342
+            ]
+        ], 
+        [
+            "core.startup.time_import", 
+            "graphs/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz/machine-drogon-neurodebian1.1/os-Linux 4.6.0-rc1+/python-2.7/ram-65948008/core.startup.time_import.json", 
+            {
+                "branch": "master", 
+                "python": "2.7"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        5885, 
+                        0.05902009010314942, 
+                        0.08895646333694457
+                    ]
+                ], 
+                0.08895646333694457, 
+                0.05902009010314942
+            ]
+        ], 
+        [
+            "core.startup.time_import", 
+            "graphs/arch-x86_64/branch-0.5.x/cpu-Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz/machine-drogon-neurodebian1.1/os-Linux 4.6.0-rc1+/python-2.7/ram-65948008/core.startup.time_import.json", 
+            {
+                "branch": "0.5.x", 
+                "python": "2.7"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        5885, 
+                        0.05902009010314942, 
+                        0.08777704238891601
+                    ]
+                ], 
+                0.08777704238891601, 
+                0.05902009010314942
+            ]
+        ], 
+        [
+            "core.startup.time_import_api", 
+            "graphs/arch-x86_64/branch-0.5.x/cpu-Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz/machine-drogon-neurodebian1.1/os-Linux 4.6.0-rc1+/python-3.4/ram-65948008/core.startup.time_import_api.json", 
+            {
+                "branch": "0.5.x", 
+                "python": "3.4"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        5885, 
+                        0.23376834392547607, 
+                        0.2678270544856787
+                    ]
+                ], 
+                0.2678270544856787, 
+                0.23376834392547607
+            ]
+        ], 
+        [
+            "api.supers.time_ls", 
+            "graphs/arch-x86_64/branch-0.5.x/cpu-Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz/machine-drogon-neurodebian1.1/os-Linux 4.6.0-rc1+/python-2.7/ram-65948008/api.supers.time_ls.json", 
+            {
+                "branch": "0.5.x", 
+                "python": "2.7"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        5191, 
+                        5353, 
+                        0.06527558565139771, 
+                        0.09228768348693847
+                    ], 
+                    [
+                        null, 
+                        5825, 
+                        0.09228768348693847, 
+                        0.12219775915145874
+                    ]
+                ], 
+                0.12219775915145874, 
+                0.06527558565139771
+            ]
+        ], 
+        [
+            "api.testds.time_create_test_dataset2x2", 
+            "graphs/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz/machine-drogon-neurodebian1.1/os-Linux 4.6.0-rc1+/python-2.7/ram-65948008/api.testds.time_create_test_dataset2x2.json", 
+            {
+                "branch": "master", 
+                "python": "2.7"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        5070, 
+                        5114, 
+                        1.2662240266799927, 
+                        2.2670140266418457
+                    ]
+                ], 
+                2.2670140266418457, 
+                1.2662240266799927
+            ]
+        ]
+    ]
+}
